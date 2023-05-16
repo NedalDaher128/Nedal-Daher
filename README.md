@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Developer Abdul Rahman</h1>
 <h3 align="center">I live in Jordan in the city of Amman</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Do+not+surrender+to+life+if+it+turned+its+back+on+you%2C+so+initiate+treachery;%D9%84%D8%A7+%D8%AA%D8%B3%D8%AA%D8%B3%D9%84%D9%85+%D9%84%D9%84%D8%AD%D9%8A%D8%A7%D8%A9+%D8%A7%D9%86+%D8%A7%D8%AF%D8%A7%D8%B1%D8%AA+%D8%B8%D9%87%D8%B1%D9%87%D8%A7+%D9%84%D9%83+%D9%81%D8%A8%D8%A7%D8%AF%D8%B1+%D8%A8%D8%A7%D9%84%D8%BA%D8%AF%D8%B1)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanpro&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmanpro" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Do+not+surrender+to+life+if+it+turned+its+back+on+you%2C+so+initiate+treachery)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahmanpro" alt="abdulrahmanpro" /></a> </p>
 
